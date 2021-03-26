@@ -13,7 +13,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: mbusigins-vl
+  AZURE_WEBAPP_NAME: mbusigins-vl-ttt-app
   #################################################
 
 jobs:
